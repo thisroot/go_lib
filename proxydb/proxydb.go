@@ -1,7 +1,7 @@
 package proxydb
 
 import "database/sql"
-import "virt88.aetp.nn/doc2/go_lib/promclient"
+import "go_lib/promclient"
 import "time"
 
 type ProxyDB struct {
