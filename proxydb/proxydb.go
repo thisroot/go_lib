@@ -1,7 +1,7 @@
 package proxydb
 
 import "database/sql"
-import "go_lib/promclient"
+import "github.com/thisroot/go_lib/promclient"
 import "time"
 
 type ProxyDB struct {
